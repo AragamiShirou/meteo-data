@@ -4,3 +4,5 @@ ncread to read nc file, where get_mon() is for caculating monthly average later.
 
 
 Just for Practice....
+
+頑張れ！
